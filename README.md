@@ -2,13 +2,7 @@
 
 ---
 #### my works
-![fyenne's GitHub stats](https://github-readme-stats.vercel.app/api?username=fyenne&count_private=true&show_icons=true&theme=dracula)
-
----
-#### my language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fyenne)](https://github.com/fyenne/github-readme-stats)
-
- 
+![fyenne's GitHub stats](https://github-readme-stats.vercel.app/api?username=fyenne&count_private=true&show_icons=true&theme=dracula) 
 
 - 🔭 I’m currently working on **full stack developing with django and react**
 - 🌱 I’m currently learning **full stack developing with django and react**

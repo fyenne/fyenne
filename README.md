@@ -22,7 +22,6 @@
 
 ##### only front-end skill I kind of have:
 
-<a> </a>
 <p>
 
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
@@ -32,16 +31,15 @@
 
 ##### back-end:
 
-<a> </a>
 <p>
     <img alt="Django"
         src="https://img.shields.io/badge/-Django-082d1f?style=for-the-badge&logo=Django&logoColor=white" />
 </p>
+
+
+##### other:
 <p>
 
-    ##### other:
-
-    <a> </a>
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Docker"
         src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />

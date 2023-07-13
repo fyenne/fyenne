@@ -2,7 +2,14 @@
 
 ---
 #### my works
-![fyenne's GitHub stats](https://github-readme-stats.vercel.app/api?username=fyenne&count_private=true&show_icons=true&theme=dracula) 
+<div style="display:flex; justify-content: space-between;">
+    <div>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=fyenne&count_private=true&show_icons=true&theme=dracula" />
+    </div>
+    <div>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
+    </div>
+</div>
 
 - 🔭 I’m currently working on **full stack developing with django and react**
 - 🌱 I’m currently learning **full stack developing with django and react**

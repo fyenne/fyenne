@@ -11,13 +11,14 @@
 learning and also stats**
 - 🤔 I’m looking for help with **quant trading in Chinese future and option market with llm model and machine learning
 and also stats**
-- 🔭 I’m currently working on **full stack developing with django and react**
 - 🌱 I’m currently learning **full stack developing with django and react**
 - 📫 How to reach me: **fyenne@hotmail.com**
 
 #### with the help of :
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+
+also claude, phind, perplexity...etc
 
 ##### I can possibly do:
 
@@ -28,17 +29,12 @@ and also stats**
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
-##### only front-end skill I kind of have:
+##### Web-dev skill I kind of have:
 
 <div>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
     <img alt="TailwindCSS"
-        src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat&logo=tailwindcss&logoColor=white" />
-</div>
-
-##### only back-end:
-
-<div>
+        src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat&logo=tailwindcss&logoColor=white" /> 
     <img alt="Django"
         src="https://img.shields.io/badge/-Django-082d1f?style=flat&logo=Django&logoColor=white" />
 </div>
@@ -64,4 +60,3 @@ Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apac
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)

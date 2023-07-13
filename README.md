@@ -5,10 +5,9 @@
         src="https://github-readme-stats.vercel.app/api?username=fyenne&count_private=true&show_icons=true&theme=dracula" />
 </div>
 
-<br>
+##### with the help of and :
 
-##### with help of :
-
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ##### I am good with:
@@ -25,25 +24,21 @@
 <div>
     <p>
         <a style="font-size:15px; font-weight:bold;">only front-end skill I kind of have:</a>
-        <img alt="React"
-            src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+        <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=plastic&logo=react&logoColor=white" />
         <img alt="TailwindCSS"
-            src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
+            src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     </p>
     <p>
-    back-end:
-        <img alt="Django"
-            src="https://img.shields.io/badge/-Django-082d1f?style=flat-square&logo=Django&logoColor=white" />
+        back-end:
+        <img alt="Django" src="https://img.shields.io/badge/-Django-082d1f?style=social&logo=Django&logoColor=white" />
     </p>
     <p>
-    other:
-        <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img alt="Docker"
-            src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-        <img alt="Ubuntu"
-            src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
+        other:
+        <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white" />
+        <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
+        <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=plastic&logo=ubuntu&logoColor=white" />
         <img alt="spark"
-            src="https://img.shields.io/badge/-spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+            src="https://img.shields.io/badge/-spark-E25A1C?style=plastic&logo=apachespark&logoColor=white" />
     </p>
 </div>
 

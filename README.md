@@ -6,12 +6,12 @@
 </div>
 
 <br>
+
 ##### with help of :
+
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ##### I am good with:
-
-<br>
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,21 +23,20 @@
 <br>
 
 <div>
-    <p style="font-size:14px">
-        only front-end skill I kind of have:<br>
+    <p>
+        <a style="font-size:15px; font-weight:bold;">only front-end skill I kind of have:</a>
         <img alt="React"
             src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
         <img alt="TailwindCSS"
             src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
     </p>
-    back-end:
     <p>
+    back-end:
         <img alt="Django"
             src="https://img.shields.io/badge/-Django-082d1f?style=flat-square&logo=Django&logoColor=white" />
-
     </p>
-    other:
     <p>
+    other:
         <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
         <img alt="Docker"
             src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />

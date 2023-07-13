@@ -5,12 +5,14 @@
         src="https://github-readme-stats.vercel.app/api?username=fyenne&count_private=true&show_icons=true&theme=dracula" />
 </div>
 
-- 🔭 I’m currently working on **full stack developing with django and react**
-- 🌱 I’m currently learning **full stack developing with django and react**
+---
+
 - 👯 I’m looking to collaborate on **quant trading in Chinese future and option market with llm model and machine
 learning and also stats**
 - 🤔 I’m looking for help with **quant trading in Chinese future and option market with llm model and machine learning
 and also stats**
+- 🔭 I’m currently working on **full stack developing with django and react**
+- 🌱 I’m currently learning **full stack developing with django and react**
 - 📫 How to reach me: **fyenne@hotmail.com**
 
 #### with the help of :
@@ -40,7 +42,6 @@ and also stats**
     <img alt="Django"
         src="https://img.shields.io/badge/-Django-082d1f?style=flat&logo=Django&logoColor=white" />
 </div>
-
 
 ##### other:
 

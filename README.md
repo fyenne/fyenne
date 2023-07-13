@@ -22,24 +22,23 @@
 
 ##### only front-end skill I kind of have:
 
-<p>
-
+<div>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
     <img alt="TailwindCSS"
         src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+</div>
 
 ##### back-end:
 
-<p>
+<div>
     <img alt="Django"
         src="https://img.shields.io/badge/-Django-082d1f?style=for-the-badge&logo=Django&logoColor=white" />
-</p>
+</div>
 
 
 ##### other:
-<p>
 
+<div>
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Docker"
         src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
@@ -47,7 +46,8 @@
         src="https://img.shields.io/badge/-Ubuntu-DB652A?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img alt="spark"
         src="https://img.shields.io/badge/-spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-</p>
+</div>
+
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)

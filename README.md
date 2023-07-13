@@ -1,50 +1,47 @@
-### Hi there 👋 its siming yan .
-
+### Hi there 👋 its siming yan
 ---
-#### my works
-
 <div style="display:flex; justify-content: space-between;">
-        <img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=fyenne&count_private=true&show_icons=true&theme=dracula" />
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=fyenne&count_private=true&show_icons=true&theme=dracula" />
 </div>
 
+<br>
 with help of <p>
     ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)</p>
-I am good with: <p>
-    ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-    ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-    ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-    ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+I am good with: <br>
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-    <div>
-        <p style="font-size:medium">
-            only front-end skill I kind of have:<br>
-            <img alt="React"
-                src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-            <img alt="TailwindCSS"
-                src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
-        </p>
-        back-end:
-        <p>
-            <img alt="Django"
-                src="https://img.shields.io/badge/-Django-082d1f?style=flat-square&logo=Django&logoColor=white" />
-            <img alt="spark"
-                src="https://img.shields.io/badge/-spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-        </p>
-        other:
-        <p>
-            <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-            <img alt="Docker"
-                src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-            <img alt="Ubuntu"
-                src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
+<div>
+    <p style="font-size:14px">
+        only front-end skill I kind of have:<br>
+        <img alt="React"
+            src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+        <img alt="TailwindCSS"
+            src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </p>
+    back-end:
+    <p>
+        <img alt="Django"
+            src="https://img.shields.io/badge/-Django-082d1f?style=flat-square&logo=Django&logoColor=white" />
 
-
-        </p>
-        </p>
-    </div>
+    </p>
+    other:
+    <p>
+        <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        <img alt="Docker"
+            src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+        <img alt="Ubuntu"
+            src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
+        <img alt="spark"
+            src="https://img.shields.io/badge/-spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+    </p>
+    </p>
+</div>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)

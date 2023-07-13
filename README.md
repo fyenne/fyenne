@@ -5,9 +5,8 @@
         src="https://github-readme-stats.vercel.app/api?username=fyenne&count_private=true&show_icons=true&theme=dracula" />
 </div>
 
-##### with the help of and :
+#### with the help of :
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ##### I am good with:
@@ -21,26 +20,36 @@
 
 <br>
 
-<div>
-    <p>
-        <a style="font-size:15px; font-weight:bold;">only front-end skill I kind of have:</a>
-        <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=plastic&logo=react&logoColor=white" />
-        <img alt="TailwindCSS"
-            src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    </p>
-    <p>
-        back-end:
-        <img alt="Django" src="https://img.shields.io/badge/-Django-082d1f?style=social&logo=Django&logoColor=white" />
-    </p>
-    <p>
-        other:
-        <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white" />
-        <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
-        <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=plastic&logo=ubuntu&logoColor=white" />
-        <img alt="spark"
-            src="https://img.shields.io/badge/-spark-E25A1C?style=plastic&logo=apachespark&logoColor=white" />
-    </p>
-</div>
+##### only front-end skill I kind of have:
+
+<a> </a>
+<p>
+
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+    <img alt="TailwindCSS"
+        src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+##### back-end:
+
+<a> </a>
+<p>
+    <img alt="Django"
+        src="https://img.shields.io/badge/-Django-082d1f?style=for-the-badge&logo=Django&logoColor=white" />
+</p>
+<p>
+
+    ##### other:
+
+    <a> </a>
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="Docker"
+        src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="Ubuntu"
+        src="https://img.shields.io/badge/-Ubuntu-DB652A?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img alt="spark"
+        src="https://img.shields.io/badge/-spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+</p>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -58,3 +67,5 @@ learning and also stats**
 - 🤔 I’m looking for help with **quant trading in Chinese future and option market with llm model and machine learning
 and also stats**
 - 📫 How to reach me: **fyenne@hotmail.com**
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)

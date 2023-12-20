@@ -7,10 +7,10 @@
 
 ---
 
-- 👯 I’m looking to collaborate on **quant trading in Chinese future and option market with llm model and machine
-learning and also stats**
-- 🤔 I’m looking for help with **quant trading in Chinese future and option market with llm model and machine learning
-and also stats**
+- 👯 I’m looking to collaborate on **quantitative trading in Chinese future and option market with machine
+learning and also stats or whatever useful**
+- 🤔 I’m looking for help with **quantitative trading in Chinese future and option market with machine learning
+and also stats or whatever useful**
 - 🌱 I’m currently learning **full stack developing with django and react**
 - 📫 How to reach me: **fyenne@hotmail.com**
 
@@ -24,8 +24,8 @@ also claude, phind, perplexity...etc
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fyenne&count_private=true&size_weight=0.2&count_weight=0.4&hide=html&layout=compact&theme=cobalt))](https://github.com/fyenne/github-readme-stats)
 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)

@@ -16,7 +16,7 @@ and also stats or whatever useful**
 
 #### with the help of :
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=yellow)
 
 also claude, phind, perplexity...etc
 

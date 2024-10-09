@@ -11,7 +11,6 @@
 learning and also stats or whatever useful**
 - 🤔 I’m looking for help with **quantitative trading in Chinese future and option market with machine learning
 and also stats or whatever useful**
-- 🌱 I’m currently learning **full stack developing with django and react**
 - 📫 How to reach me: **fyenne@hotmail.com**
 
 #### with the help of :

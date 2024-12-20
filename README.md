@@ -40,7 +40,7 @@ also claude, phind, perplexity...etc
         src="https://img.shields.io/badge/-Django-082d1f?style=flat&logo=Django&logoColor=white" />
 </div>
 
-##### other:
+##### othe1r:
 
 <div>
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />

@@ -1,7 +1,7 @@
 ### Hi there 👋 its siming yan
 ---
 <div style="display:flex; justify-content: space-between;">
-    <img align="center"
+    <img align="right"
         src="https://github-readme-stats.vercel.app/api?username=fyenne&count_private=true&show_icons=true&theme=cobalt" />
 </div>
 

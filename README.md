@@ -21,8 +21,6 @@ also claude, phind, perplexity...etc
 
 ##### I can possibly do:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fyenne&count_private=true&size_weight=0.2&count_weight=0.4&hide=html&layout=compact&theme=cobalt))](https://github.com/fyenne/github-readme-stats)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)

@@ -2,7 +2,7 @@
 ---
 <div style="display:flex; justify-content: space-between;">
     <img align="right"
-        src="https://github-readme-stats.vercel.app/api?username=fyenneyenn&count_private=true&show_icons=true&theme=cobalt" />
+        src="https://github-readme-stats.vercel.app/api?username=fyenne&count_private=true&show_icons=true&theme=cobalt" />
 </div>
 
 ---

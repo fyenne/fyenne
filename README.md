@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **quantitative trading in Chinese future and option market with machine
 learning and also stats or whatever useful**
-- 🤔 I’m looking for help with **quantitative trading in Chinese future and option market with machine learning
-and also stats or whatever useful**
 - 📫 How to reach me: **fyenne@hotmail.com**
 
 #### with the help of :
@@ -23,6 +21,8 @@ also claude, phind, perplexity...etc
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
@@ -38,7 +38,7 @@ also claude, phind, perplexity...etc
         src="https://img.shields.io/badge/-Django-082d1f?style=flat&logo=Django&logoColor=white" />
 </div>
 
-##### othe1r:
+##### other:
 
 <div>
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />

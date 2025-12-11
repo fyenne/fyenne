@@ -1,9 +1,8 @@
-### Hi there 👋 its siming yan
+
 ---
-<div style="display:flex; justify-content: space-between;">
-    <img align="right"
-        src="https://github-readme-stats.vercel.app/api?username=fyenne&count_private=true&show_icons=true&theme=cobalt" />
-</div>
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/orange/pink" />
+
+Data science and Kaggle Competition Expert
 
 ---
 
@@ -20,9 +19,9 @@ also claude, phind, perplexity...etc
 ##### I can possibly do:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)

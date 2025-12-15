@@ -2,7 +2,7 @@
 ---
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/orange/pink" />
 
-Data science and Kaggle Competition Expert
+Data science 
 
 ---
 
